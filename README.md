@@ -14,7 +14,7 @@
 
 ## Installation
 
-You will first need Appium installed on your machine. Follow the instructions here:
+You will first need Appium installed on your machine. Follow the instructions here: https://appium.io/docs/en/about-appium/getting-started/?lang=en
 
 Then simple run  "npm i" to install all of the dependencies
 
